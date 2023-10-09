@@ -25,13 +25,13 @@
     cursor: pointer;
     border-radius: 5px;
     background: linear-gradient(145deg, #f0f0f0, #cacaca);
-    box-shadow: 3px 3px 5px #8b8b8b,
-        -3px -3px 5px #ffffff;
+    box-shadow: 3px 3px 5px #83f167,
+        -3px -3px 5px #eb7a7a;
 }
 
 .delete_btn:hover,
 .delete_btn:focus {
-    background: #9e9e9e;
+    background: #8bf86a;
 }
 
 
